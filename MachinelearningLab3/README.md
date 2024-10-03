@@ -6,6 +6,7 @@
 [3. Hiển Thị Kết Quả](#hienthiketqua)
 [4. So sánh Giữ 2 Thuật Toán](#sosanh)
 
+<a name ="CongNgheSuDung"></a>
 ## 1. Công Nghệ sữ dụng 
 **`Numpy`**: Thư viện này được sử dụng để thực hiện các phép toán trên mảng `(arrays)` và là một trong những thư viện cơ bản cho khoa học dữ liệu và tính toán số. Cung cấp nhiều hàm và công cụ để xử lý dữ liệu.
 
@@ -13,6 +14,7 @@
 
 **`Scikit-learn (sklearn)`**: Thư viện này cung cấp nhiều thuật toán học máy, công cụ cho việc chia dữ liệu `(train-test split)`, và đánh giá mô hình. Trong đoạn mã trên, `train_test_split` được sử dụng để chia tập dữ liệu thành tập huấn luyện `(train)` và tập kiểm tra `(test)`.
 
+<a name ="ThuatToan"></a>
 ## 2. Thuật Toán
 **Tải dữ liệu**: Hàm `loadCsv` trả về một Dataframe Pandas chứa dữ liệu
 **Huấn luyện và kiểm tra**: Với hàm `splitTrainTest` thực hiện xáo trộn ngẫu nhiên chỉ mục của dữ liệu và chia thành hai phần: 

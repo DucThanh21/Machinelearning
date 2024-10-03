@@ -2,8 +2,11 @@
 ### MỤC LỤC 
 
 [1. Công Nghệ Sử Dụng](#CongNgheSuDung)
+
 [2. Thuật Toán](#ThuatToan)
+
 [3. Hiển Thị Kết Quả](#hienthiketqua)
+
 [4. So sánh Giữ 2 Thuật Toán](#sosanh)
 
 <a name ="CongNgheSuDung"></a>

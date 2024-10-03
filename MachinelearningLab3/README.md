@@ -6,4 +6,4 @@ Pandas: Thư viện mạnh mẽ này cho phép người dùng thao tác và phâ
 Scikit-learn (sklearn): Thư viện này cung cấp nhiều thuật toán học máy, công cụ cho việc chia dữ liệu (train-test split), và đánh giá mô hình. Trong đoạn mã trên, train_test_split được sử dụng để chia tập dữ liệu thành tập huấn luyện (train) và tập kiểm tra (test).
 
 # 2. Thuật Toán
-Chia tập dữ liệu: Dữ liệu được chia ra và tìm kiếm nhờ hàm #splitTrainTest
+Chia tập dữ liệu: Dữ liệu được chia ra và tìm kiếm nhờ hàm # splitTrainTest

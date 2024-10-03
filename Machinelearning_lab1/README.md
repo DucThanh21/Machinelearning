@@ -1,3 +1,8 @@
+# Creating the README.md file with the provided HTML and CSS code.
+readme_content = """# Website kết quả 
+
+## HTML Code
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,14 +19,15 @@
 
     <div class="image-section">
         <!-- Chèn link ảnh vào đây -->
-        <h1><img src="c:\Users\nhoxt\Pictures\Camera Roll\Screenshot 2024-10-04 051031.png" alt="lab 1"></h1>
+        <h1><img src="c:\\Users\\nhoxt\\Pictures\\Camera Roll\\Screenshot 2024-10-04 051031.png" alt="lab 1"></h1>
 
-        <img src="c:\Users\nhoxt\Pictures\Camera Roll\Screenshot 2024-10-04 050035.png" alt="Kết quả bài lab 1">
+        <img src="c:\\Users\\nhoxt\\Pictures\\Camera Roll\\Screenshot 2024-10-04 050035.png" alt="Kết quả bài lab 1">
     </div>
 
 </body>
 </html>
 
+## styles.css
 body {
     background-color: #1f1f1f;  /* Màu nền */
     color: #f0f0f0;             /* Màu chữ */
@@ -49,3 +55,4 @@ img {
     font-size: 16px;            /* Kích thước chữ ghi chú */
     margin-bottom: 10px;        /* Khoảng cách dưới ghi chú */
 }
+S

@@ -14,23 +14,17 @@
 **`Scikit-learn (sklearn)`**: Thư viện này cung cấp nhiều thuật toán học máy, công cụ cho việc chia dữ liệu `(train-test split)`, và đánh giá mô hình. Trong đoạn mã trên, `train_test_split` được sử dụng để chia tập dữ liệu thành tập huấn luyện `(train)` và tập kiểm tra `(test)`.
 
 ## 2. Thuật Toán
+**Tải dữ liệu**: Hàm `loadCsv` trả về một Dataframe Pandas chứa dữ liệu
+**Huấn luyện và kiểm tra**: Với hàm `splitTrainTest` thực hiện xáo trộn ngẫu nhiên chỉ mục của dữ liệu và chia thành hai phần: 
+**+** một phần cho huấn luyện (train)
+**+** một phần cho kiểm tra (test). 
+Tập huấn luyện được sử dụng để huấn luyện mô hình, trong khi tập kiểm tra dùng để đánh giá hiệu suất của mô hình.
 **Chia tập dữ liệu**: Dữ liệu được chia ra và tìm kiếm nhờ hàm `splitTrainTest`. Trong đó, biến `target` là tên cột mà ta muốn dự đoán, với tham số `ratio` dùng để xác định tỉ lệ dữ liệu dùng cho tập kiểm tra.
 
 **Tính trung bình lớp**: Hàm `mean_class` sử dụng phương pháp nhóm `(groupby)` tính toán trung bình của từng lớp trong biến mục tiêu. Có nghĩa là đối với mỗi lớp (chẳng hạn như các loại hoa trong tập dữ liệu Iris), hàm sẽ tính toán trung bình của các đặc trưng `(features)` khác.
 
 **Dự đoán bằng khoảng cách `Euclid`**: Hàm `target_pred` sử dụng khoảng cách **Euclid** so sánh điểm dữ liệu trong tập kiểm tra với các trung bình lớp đã được tính toán. Khoảng cách Euclid giữa hai điểm trong không gian nhiều chiều một cách hiệu quả để đo độ tương đồng.
-d(p,q)= 
-i=1
-∑
-n
-​
- (p 
-i
-​
- −q 
-i
-​
- ) 
-2
+
+**kết quả**: Cuối cùng, các kết quả được dự đoán sẽ so sánh với các giá trị thực tế trong tập kiểm tra. Để dễ dàngtha6y1 được độ chính xác của mô hình thông qua việc so sánh. 
  
 ​

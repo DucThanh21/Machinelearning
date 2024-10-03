@@ -16,8 +16,8 @@
 ## 2. Thuật Toán
 **Tải dữ liệu**: Hàm `loadCsv` trả về một Dataframe Pandas chứa dữ liệu
 **Huấn luyện và kiểm tra**: Với hàm `splitTrainTest` thực hiện xáo trộn ngẫu nhiên chỉ mục của dữ liệu và chia thành hai phần: 
-**+** một phần cho huấn luyện (train)
-**+** một phần cho kiểm tra (test). 
+- Một phần cho huấn luyện (train)
+- Một phần cho kiểm tra (test). 
 Tập huấn luyện được sử dụng để huấn luyện mô hình, trong khi tập kiểm tra dùng để đánh giá hiệu suất của mô hình.
 **Chia tập dữ liệu**: Dữ liệu được chia ra và tìm kiếm nhờ hàm `splitTrainTest`. Trong đó, biến `target` là tên cột mà ta muốn dự đoán, với tham số `ratio` dùng để xác định tỉ lệ dữ liệu dùng cho tập kiểm tra.
 

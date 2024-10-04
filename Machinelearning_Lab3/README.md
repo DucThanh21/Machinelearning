@@ -7,7 +7,6 @@
 
 [3. Hiển Thị Kết Quả](#hienthiketqua)
 
-[4. So sánh Giữ 2 Thuật Toán](#sosanh)
 
 <a name ="CongNgheSuDung"></a>
 ## 1. [Công Nghệ sữ dụng]
@@ -43,18 +42,6 @@
 - Bài tập [KNN_BT2](https://github.com/DucThanh21/Machinelearning/blob/main/MachinelearningLab3/KNN_BT2-practice.ipynb).
 
 <a name ="sosanh"></a>
-## 4. [Kết quả so sánh]
-
-[kết quả của bài KNN_BT2](https://github.com/DucThanh21/Machinelearning/blob/main/MachinelearningLab3/KNN_BT2-practice.ipynb).
-
-
-![image](https://github.com/user-attachments/assets/d07bef51-73da-4607-9d5a-148a92538039)
-
-![image](https://github.com/user-attachments/assets/66c4a0de-bef2-42e5-a5f1-94bb1031bb80)
-
-![image](https://github.com/user-attachments/assets/0b966b20-08bd-4625-9b51-2d5cc2f0a154)
-
-![image](https://github.com/user-attachments/assets/477dc8f3-7a97-4c82-9ec6-b74b3c9d223d)
 
 
 

@@ -33,5 +33,6 @@
 
 **kết quả**: Cuối cùng, các kết quả được dự đoán sẽ so sánh với các giá trị thực tế trong tập kiểm tra. Để dễ dàngtha6y1 được độ chính xác của mô hình thông qua việc so sánh. 
 
+<a name ="hienthiketqua"></a>
  ## 3. Hiển Thị Kết Quả 
 ​

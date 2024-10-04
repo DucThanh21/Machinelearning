@@ -45,4 +45,6 @@
 <a name ="sosanh"></a>
 ## 4. [Kết quả so sánh]
 
+![image](https://github.com/user-attachments/assets/d07bef51-73da-4607-9d5a-148a92538039)
+
 

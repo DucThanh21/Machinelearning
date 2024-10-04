@@ -40,12 +40,17 @@
 - Chạy thử code [centroid_pratice](https://github.com/DucThanh21/Machinelearning/blob/main/MachinelearningLab3/Centroid_practice.ipynb)
 
 data = loadExcel('Iris.xls')
+
 data
 
 data_train, X_test, y_test = splitTrainTest(data, 'iris', ratio = 0.3)
+
 print(data_train)
+
 print(X_test)
+
 print(y_test)
+
 
 Hàm bao gồm: 
 - Tải dữ liệu Iris và chia thành tập huấn luyện và kiểm tra.

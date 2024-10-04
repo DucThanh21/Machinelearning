@@ -20,6 +20,7 @@
 <a name ="ThuatToan"></a>
 ## 2. Thuật Toán
 **Tải dữ liệu**: Hàm `loadCsv` trả về một Dataframe Pandas chứa dữ liệu
+
 **Huấn luyện và kiểm tra**: Với hàm `splitTrainTest` thực hiện xáo trộn ngẫu nhiên chỉ mục của dữ liệu và chia thành hai phần: 
 - Một phần cho huấn luyện (train)
 - Một phần cho kiểm tra (test). 

@@ -38,10 +38,20 @@
 
 *Kết quả*
 - Chạy thử code [centroid_pratice](https://github.com/DucThanh21/Machinelearning/blob/main/MachinelearningLab3/Centroid_practice.ipynb)
+##data = loadExcel('Iris.xls')
+##data
+
+##data_train, X_test, y_test = splitTrainTest(data, 'iris', ratio = 0.3)
+##print(data_train)
+##print(X_test)
+##print(y_test
+
+
+![image](https://github.com/user-attachments/assets/e558cf5c-4847-4021-b698-708d5ee1776d)
+
+
 
 - Bài tập [KNN_BT2](https://github.com/DucThanh21/Machinelearning/blob/main/MachinelearningLab3/KNN_BT2-practice.ipynb).
-
-<a name ="sosanh"></a>
 
 
 

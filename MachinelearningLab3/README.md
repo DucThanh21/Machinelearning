@@ -32,7 +32,7 @@
 
 **[Dự đoán bằng khoảng cách `Euclid`]**: Hàm `target_pred` sử dụng khoảng cách **Euclid** so sánh điểm dữ liệu trong tập kiểm tra với các trung bình lớp đã được tính toán. Khoảng cách Euclid giữa hai điểm trong không gian nhiều chiều một cách hiệu quả để đo độ tương đồng.
 
-**[kết quả]**: Cuối cùng, các kết quả được dự đoán sẽ so sánh với các giá trị thực tế trong tập kiểm tra. Để dễ dàngtha6y1 được độ chính xác của mô hình thông qua việc so sánh. 
+**[kết quả]**: Cuối cùng, các kết quả được dự đoán sẽ so sánh với các giá trị thực tế trong tập kiểm tra. Để dễ dàng thấy được độ chính xác của mô hình thông qua việc so sánh. 
 
 <a name ="hienthiketqua"></a>
  ## 3. Hiển Thị Kết Quả 

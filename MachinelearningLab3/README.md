@@ -38,5 +38,6 @@
  ## 3. Hiển Thị Kết Quả 
 
 *Kết quả*
-- Chạy thử code [centroid_pratice](
+- Chạy thử code [centroid_pratice](https://github.com/DucThanh21/Machinelearning/blob/main/MachinelearningLab3/Centroid_practice.ipynb)
+
 - Bài tập [KNN_BT2](https://github.com/DucThanh21/Machinelearning/blob/main/MachinelearningLab3/KNN_BT2-practice.ipynb).

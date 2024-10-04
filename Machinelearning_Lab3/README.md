@@ -43,8 +43,9 @@
 - Bài tập [KNN_BT2](https://github.com/DucThanh21/Machinelearning/blob/main/MachinelearningLab3/KNN_BT2-practice.ipynb).
 
 <a name ="sosanh"></a>
-## 4. [Kết quả so sánh]
+## 4. [Kết quả so sánh](https://github.com/DucThanh21/Machinelearning/blob/main/MachinelearningLab3/KNN_BT2-practice.ipynb).
 
+* kết quả của KNN_BT2*
 ![image](https://github.com/user-attachments/assets/d07bef51-73da-4607-9d5a-148a92538039)
 
 

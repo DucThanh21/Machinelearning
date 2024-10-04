@@ -59,6 +59,7 @@ Hàm bao gồm:
 
 ![image](https://github.com/user-attachments/assets/e558cf5c-4847-4021-b698-708d5ee1776d)
 
+![image](https://github.com/user-attachments/assets/bea3fdb7-f2cb-48d2-8094-136bd2e341fa)
 
 
 - Bài tập [KNN_BT2](https://github.com/DucThanh21/Machinelearning/blob/main/MachinelearningLab3/KNN_BT2-practice.ipynb).

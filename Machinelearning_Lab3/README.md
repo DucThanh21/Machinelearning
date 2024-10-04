@@ -39,15 +39,18 @@
 *Kết quả*
 - Chạy thử code [centroid_pratice](https://github.com/DucThanh21/Machinelearning/blob/main/MachinelearningLab3/Centroid_practice.ipynb)
 
-##data = loadExcel('Iris.xls')
-##data
+data = loadExcel('Iris.xls')
+data
 
+data_train, X_test, y_test = splitTrainTest(data, 'iris', ratio = 0.3)
+print(data_train)
+print(X_test)
+print(y_test)
 
-##data_train, X_test, y_test = splitTrainTest(data, 'iris', ratio = 0.3)
-##print(data_train)
-##print(X_test)
-##print(y_test
-
+Hàm bao gồm: 
+- Tải dữ liệu Iris và chia thành tập huấn luyện và kiểm tra.
+- Tính toán giá trị trung bình cho mỗi lớp trong tập huấn luyện.
+- Dự đoán lớp cho các mẫu trong tập kiểm tra.
 
 ![image](https://github.com/user-attachments/assets/e558cf5c-4847-4021-b698-708d5ee1776d)
 

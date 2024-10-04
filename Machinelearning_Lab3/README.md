@@ -35,7 +35,7 @@
 **[kết quả]**: Cuối cùng, các kết quả được dự đoán sẽ so sánh với các giá trị thực tế trong tập kiểm tra. Để dễ dàng thấy được độ chính xác của mô hình thông qua việc so sánh. 
 
 <a name ="hienthiketqua"></a>
- ## 3. Hiển Thị Kết Quả 
+ ## 3. [Hiển Thị Kết Quả]
 
 *Kết quả*
 - Chạy thử code [centroid_pratice](https://github.com/DucThanh21/Machinelearning/blob/main/MachinelearningLab3/Centroid_practice.ipynb)

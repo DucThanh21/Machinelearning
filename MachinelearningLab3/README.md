@@ -36,4 +36,7 @@
 
 <a name ="hienthiketqua"></a>
  ## 3. Hiển Thị Kết Quả 
+
+*Kết quả*
+- Bài tập [KNN_BT2] (https://github.com/DucThanh21/Machinelearning/blob/main/MachinelearningLab3/KNN_BT2-practice.ipynb) đã được chỉnh sửa và thay đổi để có thể chạy được ổn thỏa nhất 
 ​

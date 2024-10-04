@@ -38,8 +38,10 @@
 
 *Kết quả*
 - Chạy thử code [centroid_pratice](https://github.com/DucThanh21/Machinelearning/blob/main/MachinelearningLab3/Centroid_practice.ipynb)
+
 ##data = loadExcel('Iris.xls')
 ##data
+
 
 ##data_train, X_test, y_test = splitTrainTest(data, 'iris', ratio = 0.3)
 ##print(data_train)

@@ -52,7 +52,7 @@ print(X_test)
 print(y_test)
 
 
-Hàm bao gồm: 
+**Hàm bao gồm:** 
 - Tải dữ liệu Iris và chia thành tập huấn luyện và kiểm tra.
 - Tính toán giá trị trung bình cho mỗi lớp trong tập huấn luyện.
 - Dự đoán lớp cho các mẫu trong tập kiểm tra.

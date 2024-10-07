@@ -1,8 +1,8 @@
 ## Basic Machinelearning 
 ### MỤC LỤC 
 
-[1. Công nghệ sử dụng](#phanphoi)
+[1. Công Nghệ Sử Dụng](#CongNgheSuDung)
 
-[2. Phối Gaussian](#gaussian)
+[2. Thuật Toán](#ThuatToan)
 
 [3. Hiển Thị Kết Quả](#hienthiketqua)

@@ -1,7 +1,7 @@
 ## Basic Machinelearning 
 ### MỤC LỤC 
 
-[1. Phân phối Bernoulli và Multinomial  ](#phanphoi)
+[1. Công nghệ sử dụng](#phanphoi)
 
 [2. Phối Gaussian](#gaussian)
 

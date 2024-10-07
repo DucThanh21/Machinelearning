@@ -37,6 +37,7 @@
 [3. Hiển Thị Kết Quả](#hienthiketqua)
 
 **kết quả của thực hiện**
+
 ![image](https://github.com/user-attachments/assets/f071a20a-cdcd-48c9-ad18-fafdc63dfe60)
 
 ![image](https://github.com/user-attachments/assets/0c17e85b-7404-4e6e-8d3a-484165fc94df)

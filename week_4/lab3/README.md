@@ -86,5 +86,33 @@ print(y_test)
 
 - Bài tập [KNN_BT2](https://github.com/DucThanh21/Machinelearning/blob/main/MachinelearningLab3/KNN_BT2-practice.ipynb).
 
+-![image](https://github.com/user-attachments/assets/76d9ed6d-ff89-432c-b9df-df34976e256b)
+
+![image](https://github.com/user-attachments/assets/5cd02494-67e3-43b1-9d15-6c1a425e74ef)
+
+
+- ![image](https://github.com/user-attachments/assets/6d0da2d6-a289-4c56-9e75-dae3e5721a61)
+
+![image](https://github.com/user-attachments/assets/ccbb5278-6202-4c53-9ea9-5694ab3bc06c)
+
+
+- ![image](https://github.com/user-attachments/assets/948ffecc-bb61-45a3-9113-6185c86a3451)
+
+![image](https://github.com/user-attachments/assets/720a904f-9511-4231-8d81-5100cea487ef)
+
+
+- ![image](https://github.com/user-attachments/assets/26b4fe50-2356-4786-b4b6-8abb03fa442b)
+
+![image](https://github.com/user-attachments/assets/4940e6d6-e2ab-4624-bbb2-c9d20ec520c8)
+
+
+- ![image](https://github.com/user-attachments/assets/e5bbcfef-baeb-477a-adfd-b1e20dc0ac39)
+
+![image](https://github.com/user-attachments/assets/5996652e-dcd5-410e-ba6d-be80a65bef46)
+
+
+- ![image](https://github.com/user-attachments/assets/e7f7a8e2-2de8-4f01-a833-8aa6ae0e443d)
+
+![image](https://github.com/user-attachments/assets/50bf6381-7982-4924-8d71-1a7e509bbd21)
 
 

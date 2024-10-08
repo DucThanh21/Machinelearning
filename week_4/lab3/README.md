@@ -67,6 +67,23 @@ print(y_test)
 
 ![image](https://github.com/user-attachments/assets/bc770bcf-0c4f-4941-804b-1b4a33fa6c13)
 
+
+- ![image](https://github.com/user-attachments/assets/25ff90aa-8505-419b-ba91-cf4ed2d89286)
+
+![image](https://github.com/user-attachments/assets/2b7e4659-939a-4deb-9ae6-683950a0fc8e)
+
+- ![image](https://github.com/user-attachments/assets/13576a33-c4d1-417a-a12a-13032fd30464)
+
+![image](https://github.com/user-attachments/assets/351d6c9b-127e-4173-b584-188920cef4bc)
+
+- ![image](https://github.com/user-attachments/assets/d83b4f91-ff0a-460b-9347-bf355df3544c)
+
+![image](https://github.com/user-attachments/assets/90065e74-34d2-4a70-91cf-081603381822)
+
+- ![image](https://github.com/user-attachments/assets/51f4069e-8e37-4e1a-b305-e7e6bd561b0b)
+
+![image](https://github.com/user-attachments/assets/5dd56e48-7a22-4b3a-9cd0-e51b186af941)
+
 - Bài tập [KNN_BT2](https://github.com/DucThanh21/Machinelearning/blob/main/MachinelearningLab3/KNN_BT2-practice.ipynb).
 
 

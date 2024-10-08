@@ -61,7 +61,12 @@ print(y_test)
 
 ![image](https://github.com/user-attachments/assets/bea3fdb7-f2cb-48d2-8094-136bd2e341fa)
 
-- bài tập [KNN_BT1]
+- bài tập [KNN_BT1](https://github.com/DucThanh21/Machinelearning/blob/main/week_4/lab3/KNN_BT1-practice.ipynb)
+
+- ![image](https://github.com/user-attachments/assets/e9bc78cc-e369-4567-bc29-1c4c2751a9fa)
+
+![image](https://github.com/user-attachments/assets/bc770bcf-0c4f-4941-804b-1b4a33fa6c13)
+
 - Bài tập [KNN_BT2](https://github.com/DucThanh21/Machinelearning/blob/main/MachinelearningLab3/KNN_BT2-practice.ipynb).
 
 

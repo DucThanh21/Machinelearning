@@ -58,4 +58,3 @@ Kết quả bao gồm:
 
 ---
 
-Bạn có thể thay thế các liên kết ảnh mẫu bằng kết quả thực tế của mình và điều chỉnh nội dung để phù hợp với triển khai cụ thể của bạn.

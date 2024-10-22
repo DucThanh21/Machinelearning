@@ -49,10 +49,12 @@ Kết quả bao gồm:
 ### Kết Quả Mẫu
 
 #### Biên Cứng
-![Trực Quan Hóa SVM Biên Cứng](https://github.com/user-attachments/assets/hard_margin_svm.png)
+
+![image](https://github.com/user-attachments/assets/6f18149e-af9a-469b-98b6-ac5d438dbf9e)
 
 #### Biên Mềm
-![Trực Quan Hóa SVM Biên Mềm](https://github.com/user-attachments/assets/soft_margin_svm.png)
+
+![image](https://github.com/user-attachments/assets/ebcf68ef-09fd-4932-9cbf-5ddbaae7bcd9)
 
 ---
 

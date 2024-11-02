@@ -46,11 +46,10 @@ Kết quả bao gồm:
 
 #### Đồ Thị Mất Mát
 
+![image](https://github.com/user-attachments/assets/b9344ae8-45a2-4d03-bade-63bc5cbf553f)
 
 #### Đồ Thị Độ Chính Xác
 
-![image](https://github.com/user-attachments/assets/accuracy_plot.png) <!-- Thay bằng liên kết thực tế của bạn -->
+![image](https://github.com/user-attachments/assets/25d9a9ab-2db1-4ff8-8833-5bfe41710980)
 
 ---
-
-Nếu bạn cần thêm thông tin hoặc điều chỉnh nào cho bài viết, hãy cho tôi biết!
